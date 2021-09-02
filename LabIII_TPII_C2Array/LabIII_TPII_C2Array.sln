@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIII_TPII_C2Array", "LabIII_TPII_C2Array\LabIII_TPII_C2Array.csproj", "{2A08C34E-205D-4D62-B6DF-0CF2B7040C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A08C34E-205D-4D62-B6DF-0CF2B7040C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A08C34E-205D-4D62-B6DF-0CF2B7040C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A08C34E-205D-4D62-B6DF-0CF2B7040C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A08C34E-205D-4D62-B6DF-0CF2B7040C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86971E4-CBF1-4487-8A3A-FB54D41BBF66}
+	EndGlobalSection
+EndGlobal

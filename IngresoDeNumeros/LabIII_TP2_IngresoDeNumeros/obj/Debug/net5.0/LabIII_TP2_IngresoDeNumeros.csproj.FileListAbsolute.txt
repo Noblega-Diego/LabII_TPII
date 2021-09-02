@@ -1,0 +1,5 @@
+C:\Users\diego\source\repos\IngresoDeNumeros\LabIII_TP2_IngresoDeNumeros\obj\Debug\net5.0\LabIII_TP2_IngresoDeNumeros.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\IngresoDeNumeros\LabIII_TP2_IngresoDeNumeros\obj\Debug\net5.0\LabIII_TP2_IngresoDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\IngresoDeNumeros\LabIII_TP2_IngresoDeNumeros\obj\Debug\net5.0\LabIII_TP2_IngresoDeNumeros.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\IngresoDeNumeros\LabIII_TP2_IngresoDeNumeros\obj\Debug\net5.0\LabIII_TP2_IngresoDeNumeros.AssemblyInfo.cs
+C:\Users\diego\source\repos\IngresoDeNumeros\LabIII_TP2_IngresoDeNumeros\obj\Debug\net5.0\LabIII_TP2_IngresoDeNumeros.csproj.CoreCompileInputs.cache

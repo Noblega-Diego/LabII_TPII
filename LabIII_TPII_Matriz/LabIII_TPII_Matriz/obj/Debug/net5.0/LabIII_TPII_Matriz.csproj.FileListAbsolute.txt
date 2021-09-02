@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\bin\Debug\net5.0\LabIII_TPII_Matriz.exe
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\bin\Debug\net5.0\LabIII_TPII_Matriz.deps.json
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\bin\Debug\net5.0\LabIII_TPII_Matriz.runtimeconfig.json
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\bin\Debug\net5.0\LabIII_TPII_Matriz.runtimeconfig.dev.json
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\bin\Debug\net5.0\LabIII_TPII_Matriz.dll
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\bin\Debug\net5.0\ref\LabIII_TPII_Matriz.dll
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\bin\Debug\net5.0\LabIII_TPII_Matriz.pdb
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.AssemblyInfo.cs
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.dll
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\ref\LabIII_TPII_Matriz.dll
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.pdb
+C:\Users\diego\source\repos\LabIII_TPII_Matriz\LabIII_TPII_Matriz\obj\Debug\net5.0\LabIII_TPII_Matriz.genruntimeconfig.cache

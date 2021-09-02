@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\solucion\LabIII_TP2\bin\Debug\net5.0\LabIII_TP2.exe
+C:\Users\diego\source\repos\solucion\LabIII_TP2\bin\Debug\net5.0\LabIII_TP2.deps.json
+C:\Users\diego\source\repos\solucion\LabIII_TP2\bin\Debug\net5.0\LabIII_TP2.runtimeconfig.json
+C:\Users\diego\source\repos\solucion\LabIII_TP2\bin\Debug\net5.0\LabIII_TP2.runtimeconfig.dev.json
+C:\Users\diego\source\repos\solucion\LabIII_TP2\bin\Debug\net5.0\LabIII_TP2.dll
+C:\Users\diego\source\repos\solucion\LabIII_TP2\bin\Debug\net5.0\ref\LabIII_TP2.dll
+C:\Users\diego\source\repos\solucion\LabIII_TP2\bin\Debug\net5.0\LabIII_TP2.pdb
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.AssemblyInfo.cs
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.dll
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\ref\LabIII_TP2.dll
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.pdb
+C:\Users\diego\source\repos\solucion\LabIII_TP2\obj\Debug\net5.0\LabIII_TP2.genruntimeconfig.cache

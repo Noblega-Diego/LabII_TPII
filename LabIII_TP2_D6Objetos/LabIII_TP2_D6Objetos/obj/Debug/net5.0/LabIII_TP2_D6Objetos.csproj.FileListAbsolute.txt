@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\bin\Debug\net5.0\LabIII_TP2_D6Objetos.exe
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\bin\Debug\net5.0\LabIII_TP2_D6Objetos.deps.json
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\bin\Debug\net5.0\LabIII_TP2_D6Objetos.runtimeconfig.json
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\bin\Debug\net5.0\LabIII_TP2_D6Objetos.runtimeconfig.dev.json
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\bin\Debug\net5.0\LabIII_TP2_D6Objetos.dll
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\bin\Debug\net5.0\ref\LabIII_TP2_D6Objetos.dll
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\bin\Debug\net5.0\LabIII_TP2_D6Objetos.pdb
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.AssemblyInfo.cs
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.dll
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\ref\LabIII_TP2_D6Objetos.dll
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.pdb
+C:\Users\diego\source\repos\LabIII_TP2_D6Objetos\LabIII_TP2_D6Objetos\obj\Debug\net5.0\LabIII_TP2_D6Objetos.genruntimeconfig.cache

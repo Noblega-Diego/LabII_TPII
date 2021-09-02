@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\bin\Debug\net5.0\LabIII_TP2_cadenas.exe
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\bin\Debug\net5.0\LabIII_TP2_cadenas.deps.json
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\bin\Debug\net5.0\LabIII_TP2_cadenas.runtimeconfig.json
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\bin\Debug\net5.0\LabIII_TP2_cadenas.runtimeconfig.dev.json
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\bin\Debug\net5.0\LabIII_TP2_cadenas.dll
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\bin\Debug\net5.0\ref\LabIII_TP2_cadenas.dll
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\bin\Debug\net5.0\LabIII_TP2_cadenas.pdb
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.AssemblyInfo.cs
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.dll
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\ref\LabIII_TP2_cadenas.dll
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.pdb
+C:\Users\diego\source\repos\LabIII_TP2_cadenas\LabIII_TP2_cadenas\obj\Debug\net5.0\LabIII_TP2_cadenas.genruntimeconfig.cache

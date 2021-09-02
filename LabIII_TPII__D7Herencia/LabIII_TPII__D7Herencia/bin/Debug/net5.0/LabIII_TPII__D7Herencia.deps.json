@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LabIII_TPII__D7Herencia/1.0.0": {
+        "runtime": {
+          "LabIII_TPII__D7Herencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabIII_TPII__D7Herencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

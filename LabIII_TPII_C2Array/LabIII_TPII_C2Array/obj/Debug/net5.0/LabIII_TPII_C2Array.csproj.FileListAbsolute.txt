@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\bin\Debug\net5.0\LabIII_TPII_C2Array.exe
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\bin\Debug\net5.0\LabIII_TPII_C2Array.deps.json
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\bin\Debug\net5.0\LabIII_TPII_C2Array.runtimeconfig.json
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\bin\Debug\net5.0\LabIII_TPII_C2Array.runtimeconfig.dev.json
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\bin\Debug\net5.0\LabIII_TPII_C2Array.dll
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\bin\Debug\net5.0\ref\LabIII_TPII_C2Array.dll
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\bin\Debug\net5.0\LabIII_TPII_C2Array.pdb
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.AssemblyInfo.cs
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.dll
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\ref\LabIII_TPII_C2Array.dll
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.pdb
+C:\Users\diego\source\repos\LabIII_TPII_C2Array\LabIII_TPII_C2Array\obj\Debug\net5.0\LabIII_TPII_C2Array.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\bin\Debug\net5.0\LabIII_TPII__D7Herencia.exe
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\bin\Debug\net5.0\LabIII_TPII__D7Herencia.deps.json
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\bin\Debug\net5.0\LabIII_TPII__D7Herencia.runtimeconfig.json
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\bin\Debug\net5.0\LabIII_TPII__D7Herencia.runtimeconfig.dev.json
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\bin\Debug\net5.0\LabIII_TPII__D7Herencia.dll
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\bin\Debug\net5.0\ref\LabIII_TPII__D7Herencia.dll
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\bin\Debug\net5.0\LabIII_TPII__D7Herencia.pdb
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.AssemblyInfo.cs
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.dll
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\ref\LabIII_TPII__D7Herencia.dll
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.pdb
+C:\Users\diego\source\repos\LabIII_TPII__D7Herencia\LabIII_TPII__D7Herencia\obj\Debug\net5.0\LabIII_TPII__D7Herencia.genruntimeconfig.cache
